@@ -1,8 +1,55 @@
-# React + Vite
+🚀 Carousel & Drag-and-Drop UI (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern frontend project demonstrating custom UI interactions built from scratch using React + Vite, without relying on external libraries.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://carousel-drag-and-drop.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+🎠 Carousel (Custom Built)
+Infinite scrolling carousel
+Auto-play with interval
+Manual navigation (left/right arrows)
+Interactive navigation dots
+Smooth animations using CSS transforms
+🧲 Drag & Drop
+Fully custom drag-and-drop implementation
+No external libraries used
+Real-time position tracking (X, Y coordinates)
+Smooth and responsive interaction
+🛠 Tech Stack
+⚛️ React (Hooks)
+⚡ Vite (Fast build tool)
+🎨 CSS3 (Flexbox, Transforms, Animations)
+📦 JavaScript (ES6+)
+💡 Key Highlights
+Built from scratch without libraries (important for interviews)
+Demonstrates strong understanding of:
+DOM events (mousedown, mousemove, mouseup)
+State management using React hooks
+Animation using transform & transition
+Clean and modular code structure
+Optimized for performance and smooth UX
+📂 Project Structure
+src/
+ ├── App.js
+ ├── index.js
+ ├── style.css
+public/
+index.html
+🚀 Getting Started
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+🎯 Use Cases
+
+This project is ideal for:
+
+Frontend interview preparation
+Understanding core UI interactions without libraries
+Learning animation and event handling in React
+👨‍💻 Author
+
+Sumit Kumar
+Frontend Developer (React.js | JavaScript | UI Engineering)
