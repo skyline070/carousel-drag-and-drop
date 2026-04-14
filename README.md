@@ -11,16 +11,19 @@ Auto-play with interval
 Manual navigation (left/right arrows)
 Interactive navigation dots
 Smooth animations using CSS transforms
+
 🧲 Drag & Drop
 Fully custom drag-and-drop implementation
 No external libraries used
 Real-time position tracking (X, Y coordinates)
 Smooth and responsive interaction
+
 🛠 Tech Stack
 ⚛️ React (Hooks)
 ⚡ Vite (Fast build tool)
 🎨 CSS3 (Flexbox, Transforms, Animations)
 📦 JavaScript (ES6+)
+
 💡 Key Highlights
 Built from scratch without libraries (important for interviews)
 Demonstrates strong understanding of:
@@ -29,6 +32,7 @@ State management using React hooks
 Animation using transform & transition
 Clean and modular code structure
 Optimized for performance and smooth UX
+
 📂 Project Structure
 src/
  ├── App.js
@@ -36,12 +40,14 @@ src/
  ├── style.css
 public/
 index.html
+
 🚀 Getting Started
 # Install dependencies
 npm install
 
 # Run locally
 npm run dev
+
 🎯 Use Cases
 
 This project is ideal for:
@@ -49,6 +55,7 @@ This project is ideal for:
 Frontend interview preparation
 Understanding core UI interactions without libraries
 Learning animation and event handling in React
+
 👨‍💻 Author
 
 Sumit Kumar
